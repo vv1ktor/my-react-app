@@ -1,5 +1,3 @@
-function App() {
-	return <div>empty</div>;
+export default function Square() {
+	return <button className="square">X</button>;
 }
-
-export default App;
